@@ -19,19 +19,3 @@
   <img src="https://img.shields.io/badge/-Vivado-F68D2E?style=flat-square&logo=xilinx&logoColor=white" alt="Vivado" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aalmalla&show_icons=true&theme=radical" alt="aalmalla's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aalmalla&theme=radical" alt="aalmalla's Detailed GitHub stats" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aalmalla&theme=radical" alt="Commit Distribution" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aalmalla&theme=radical" alt="Top Repositories by Size" />
-</p>
