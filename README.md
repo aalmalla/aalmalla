@@ -48,8 +48,7 @@
 ---
 
 ## 💡 Focus Areas
-
-- Scalable backend systems  
+ 
 - Clean architecture  
 - REST API development  
 - Full-stack applications  
